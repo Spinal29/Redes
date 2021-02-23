@@ -1,0 +1,26 @@
+Nombre de los Routers:
+
+Ixchel
+Xtabay
+Kukulkán
+Hunahpú
+Ixbalanqué
+Ixquic
+Naab
+Ometéotl
+
+Banner de los routers:
+
+#
+********************************************************
+*************** PROYECTO DE DRD ************************
+************** ACCESO RESTRINGIDO **********************
+********************************************************#
+
+contraseñas de los routers:
+
+	Consola: 123456	secret
+	Telnet: udb2019	vty
+	Router: usuario	console
+
+orden de contraseñas: usuario -- 123456
